@@ -1,0 +1,19 @@
+{
+  "websites": [
+    {
+      "name": "Example Website 1",
+      "privacy_score": 85,
+      "security_concerns": ["No HTTPS", "Outdated SSL certificate"]
+    },
+    {
+      "name": "Example Website 2",
+      "privacy_score": 90,
+      "security_concerns": ["Weak password policy", "Vulnerable third-party libraries"]
+    },
+    {
+      "name": "Example Website 3",
+      "privacy_score": 78,
+      "security_concerns": ["Insecure login form", "No two-factor authentication"]
+    }
+  ]
+}
